@@ -6,6 +6,7 @@ WriteMakefile(
         'Test::More'   => 0.47,
         'Tree::Simple' => 1.14,
         'Scalar::Util' => 1.10,
-        'XML::SAX'     => 0.12
+        'XML::SAX'     => 0.12,
+        'XML::SAX::Base' => 0,
     }
 );
